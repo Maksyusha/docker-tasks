@@ -1,2 +1,2 @@
-FROM node:16-alphine
+FROM node:16-alpine
 CMD "echo fisrt task"
